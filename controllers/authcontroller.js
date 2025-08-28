@@ -1,4 +1,4 @@
-const User = require("./models/User");
+const User = require("../models/user");
 const bcrypt = require("bcrypt");
 
 // 🔹 Generate 6-digit OTP
